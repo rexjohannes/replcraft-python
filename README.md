@@ -5,7 +5,7 @@ Docs:
 + https://mc.repl.game/replcraft/
 + https://blog.replit.com/automating-minecraft-on-replit
 
-Template: [https://git.rexum.space/rexum/replcraft-examples](https://github.com/rexjohannes/replcraft-examples)
+Template: https://github.com/rexjohannes/replcraft-examples
 
 PyPi: https://pypi.org/project/replcraft-rexum/
 
